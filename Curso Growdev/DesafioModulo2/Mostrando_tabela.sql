@@ -1,0 +1,1 @@
+select * from PERGUNTAS_RESPOSTAS;
