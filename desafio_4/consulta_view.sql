@@ -1,2 +1,0 @@
--- Consulta à VIEW criada
-SELECT * FROM VW_RESERVA_ASSOCIADO;
